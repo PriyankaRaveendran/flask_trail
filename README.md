@@ -1,2 +1,3 @@
 # new_file
-about git start
+about git start in the new way.
+
