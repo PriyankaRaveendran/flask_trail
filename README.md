@@ -1,3 +1,2 @@
-# new_file
-about git start in the new way.
+Demo flask file in Heroku
 
